@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">vasyCalendar</string>
+
+    <!-- 회원가입과 관련된 string들 -->
+    <string name="prompt_email">email</string>
+    <string name="prompt_name">name</string>
+    <string name="prompt_password">password</string>
+    <string name="action_login">LOGIN</string>
+    <string name="action_register">CREATE ACCOUNT</string>
+    <string name="action_go_login">GO TO LOGIN PAGE</string>
+    <string name="action_go_register">GO TO CREATE ACCOUNT</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="title_activity_services">ServicesActivity</string>
+
+    <string name="title_record">record</string>
+    <string name="title_analysis">analysis</string>
+    <string name="title_user">user</string>
+
+</resources>
