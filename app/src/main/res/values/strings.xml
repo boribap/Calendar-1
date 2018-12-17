@@ -9,8 +9,9 @@
     <string name="action_register">CREATE ACCOUNT</string>
     <string name="action_go_login">GO TO LOGIN PAGE</string>
     <string name="action_go_register">GO TO CREATE ACCOUNT</string>
+    <string name="action_logout">LOGOUT</string>
 
-    <!-- TODO: Remove or change this placeholder text -->
+
     <string name="title_activity_services">ServicesActivity</string>
 
     <string name="title_record">record</string>
